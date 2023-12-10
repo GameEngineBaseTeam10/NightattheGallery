@@ -2,21 +2,17 @@
 
 ## 시놉시스
 
-**야심한 밤,** 여러분은 미술관에 침입하여 그림을 훔치고, 함께하는 그림의 요정 “센조”와 함께 살아있는 피조물들을 피하며 미술관을 탈출해야 합니다. 
+**야심한 밤,** 여러분은 미술관에 침입하여 그림을 훔치고, 함께하는 그림의 요정 “샌조”와 함께 살아있는 피조물들을 피하며 미술관을 탈출해야 합니다. 
 어두컴컴한 미술관 속에서 여러분은 과연 탈출할 수 있을까요? 미술과 모험이 어우러진 이 게임에서 진행되는 독특하고 매혹적인 이야기를 경험해 보세요.
-
-(타이틀 스크린)
-
 
 ## 게임 설치 경로
 
 (링크)
 
 
-## 트레일러
+## 트레일러(사진 클릭시 유튜브 이동)
 
-(영상)
-
+[![타이틀](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1f8a476e-7723-43ef-95b4-2d3c8a2f324c)](https://youtu.be/CJiU_mAuzvE)
 
 ## 게임 소개
 
@@ -56,3 +52,8 @@
 ## 개발 환경
 
 Unreal Engine 5.1.1
+
+## 스틸컷
+
+![03](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1a294376-97b7-4308-be93-a7d59d96e446)
+![05](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/87e570b5-ffe9-471b-a07b-84341c543a01)
