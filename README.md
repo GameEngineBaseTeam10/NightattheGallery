@@ -1,4 +1,4 @@
-# ✨Night at the Artgallery✨
+# ✨Night at the Gallery✨
 
 ## 시놉시스
 
@@ -7,7 +7,7 @@
 
 ## 게임 설치 경로
 
-(링크)
+https://drive.google.com/file/d/1V7Ie5hG2AXRlAycNyXfMtYRcnG_zY-ch/view?usp=sharing
 
 
 ## 트레일러(사진 클릭시 유튜브 이동)
@@ -36,7 +36,7 @@
 
 ## 기획 의도
 
-‘Night at the Artgallery’는 영화 “박물관이 살아있다”를 모티브로 제작된 게임입니다. 
+‘Night at the Gallery’는 영화 “박물관이 살아있다”를 모티브로 제작된 게임입니다. 
 실제 미술관의 분위기를 최대한 느낄 수 있도록 에셋, 라이팅, 사운드에 신경을 썼습니다. 
 게임 내 요정인 “센조”는 플레이어에게 힌트를 제공하여 게임 플레이를 즐겁고 매끄럽게 이끌어내도록 디자인되었습니다.
 
