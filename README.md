@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1V7Ie5hG2AXRlAycNyXfMtYRcnG_zY-ch/view?usp=shari
 
 WASD : 이동
 
-마우스 우클릭 : 액자와 상호작용
+마우스 좌클릭 : 액자와 상호작용
 
 E : 아이템 사용
 
