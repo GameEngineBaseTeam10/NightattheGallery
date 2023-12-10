@@ -52,6 +52,13 @@ C : 앉기
 ‘Night at the Gallery’는 영화 “박물관이 살아있다”를 모티브로 제작된 게임입니다. 
 실제 미술관의 분위기를 최대한 느낄 수 있도록 에셋, 라이팅, 사운드에 신경을 썼습니다. 
 
+## 스크린 샷
+
+![02](https://github.com/GameEngineBaseTeam10/NightattheGallery/assets/108036322/fe1a96c2-6cad-41de-bf34-148544ff95a1)
+![03](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1a294376-97b7-4308-be93-a7d59d96e446)
+![05](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/87e570b5-ffe9-471b-a07b-84341c543a01)
+![06](https://github.com/GameEngineBaseTeam10/NightattheGallery/assets/108036322/670883b3-a25f-420a-b38b-770ffe727264)
+
 ## 개발 환경
 
 Unreal Engine 5.1.1
@@ -65,8 +72,3 @@ Unreal Engine 5.1.1
 기획 - 권용현, 한상연, 유천호
 
 디자인 - 한상연, 황성우
-
-## 스틸컷
-
-![03](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1a294376-97b7-4308-be93-a7d59d96e446)
-![05](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/87e570b5-ffe9-471b-a07b-84341c543a01)
