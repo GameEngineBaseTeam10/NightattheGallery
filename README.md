@@ -16,7 +16,11 @@ https://drive.google.com/file/d/1bKmLI4sPo88QQ180XICb9GhAf4pszZl6/view?usp=shari
 
 ## 트레일러(사진 클릭시 유튜브 이동)
 
-[![타이틀](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1f8a476e-7723-43ef-95b4-2d3c8a2f324c)](https://youtu.be/CJiU_mAuzvE)
+![타이틀](https://github.com/GameEngineBaseTeam10/NightattheArtgallery/assets/108036322/1f8a476e-7723-43ef-95b4-2d3c8a2f324c)
+
+트레일러 : https://youtu.be/CJiU_mAuzvE
+
+플레이 영상 : https://youtu.be/2iztWgxxmXE
 
 ## 게임 소개
 
