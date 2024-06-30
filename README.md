@@ -12,7 +12,7 @@
 
 ## 게임 설치 경로
 
-[네이버 Box](http://naver.me/5wWoS34p)
+[다운로드 링크](http://naver.me/5wWoS34p)
 
 ## 트레일러(사진 클릭시 유튜브 이동)
 
