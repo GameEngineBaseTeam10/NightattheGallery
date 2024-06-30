@@ -12,7 +12,7 @@
 
 ## 게임 설치 경로
 
-https://drive.google.com/file/d/1bKmLI4sPo88QQ180XICb9GhAf4pszZl6/view?usp=sharing
+[네이버 Box](http://naver.me/5wWoS34p)
 
 ## 트레일러(사진 클릭시 유튜브 이동)
 
